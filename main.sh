@@ -2,7 +2,7 @@
 
 # ~~~ EaglercraftY Xojang Server
 # ~~~ >> Xojang Code official
-# ~~~ >> Xojang
+# ~~~ >> Xojang Code
 
 unset DISPLAY
 
