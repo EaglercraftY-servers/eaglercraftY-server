@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# ~~~ EaglercraftX Server
-# ~~~ >> smashed together once again by ayunami2000
-# ~~~ >> uwu
+# ~~~ EaglercraftY Xojang Server
+# ~~~ >> Xojang Code official
+# ~~~ >> Xojang
 
 unset DISPLAY
 
